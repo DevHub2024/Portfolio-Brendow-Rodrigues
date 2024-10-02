@@ -14,4 +14,4 @@ Bem-vindo ao meu portfólio! Este projeto foi desenvolvido utilizando **HTML**, 
 
 ## Demonstração
 
-Em breve...
+<img src="https://github.com/user-attachments/assets/d15748d5-dad5-45f3-b568-ae665f1b5683" alt="foto do site | portfólio">
