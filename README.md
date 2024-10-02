@@ -1,6 +1,6 @@
-# Meu Portfólio
-
-![Banner do Portfólio](https://via.placeholder.com/800x200?text=Meu+Portf%C3%B3lio)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/75d12533-44dd-45dc-9ea2-59e4b6efe398" alt="logo do portfólio" width="55%">
+</div>
 
 ## Descrição
 
@@ -14,4 +14,4 @@ Bem-vindo ao meu portfólio! Este projeto foi desenvolvido utilizando **HTML**, 
 
 ## Demonstração
 
-![Demonstração](https://via.placeholder.com/800x400?text=Demonstra%C3%A7%C3%A3o+do+Portf%C3%B3lio)
+Em breve...
